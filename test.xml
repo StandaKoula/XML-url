@@ -6,7 +6,7 @@
 		<Visible>Yes</Visible>
 		<Roles>
 			<Role name="SP_admin" class="administrator" />
-			<Role name="developer peal_" value="employee" />
+			<Role name="developer peal" value="employee" />
 		</Roles>
 	</Navigation>
 </Config>
