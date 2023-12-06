@@ -1,7 +1,7 @@
 var userName = $(".user").text().trim();
 
 // URL k XML souboru
-const xmlUrl = 'test.xml';
+const xmlUrl = 'test1.xml';
 
 // Načítání XML z URL
 fetch(xmlUrl)
