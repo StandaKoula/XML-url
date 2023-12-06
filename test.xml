@@ -1,0 +1,12 @@
+<Config>
+	<MainInformation>
+		<Title>TRAVEL REQUEST</Title>
+	</MainInformation>
+	<Navigation>
+		<Visible>Yes</Visible>
+		<Roles>
+			<Role name="SP_admin" class="administrator" />
+			<Role name="peal_developer" value="employee" />
+		</Roles>
+	</Navigation>
+</Config>
